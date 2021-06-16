@@ -1,2 +1,2 @@
 # Socket_Java-and-Python
-PythonとJavawo
+PythonとJavaでソケット通信を行う
